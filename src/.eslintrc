@@ -10,7 +10,9 @@
 		"arrow-parens": "off",
 		"comma-dangle": "off",
 		"linebreak-style": "off",
-		"indent": "off"
+		"indent": "off",
+		"require-jsdoc": "off",
+		"no-trailing-spaces": "off"
 	},
 	"extends": ["eslint:recommended", "google"]	
 }
